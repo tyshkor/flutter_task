@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'style.dart';
-import 'rand_color_list.dart';
 
-//import 'style.dart';
 
 import 'dart:math';
    var randomColors = <Color>[];
